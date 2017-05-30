@@ -1,14 +1,19 @@
 # Hiring
+
+
+Objective:
+
+Aim of the task is to build a clone of twitter application, where the user can login using the twitter authentication API and post/view tweets. It also expects yout o store the tweets into a database which are liked by the person.
  
 Task is splitted into two parts. You are expected to carry out both the tasks. 
 
 Task A
-Create a Twitter Desktop Application using twitter API. The app should do the following:
+Create a Twitter Web Application using twitter API. The app should do the following:
   * Login with Twitter
   * Load the Feeds for the person who has logged in.
   * Post a new tweet.
  
-Use Kendo UI framework with Angular JS to build this Clone.
+Use Angular JS with any UI framework of your choice to build this Clone.
 
 Task B
  
